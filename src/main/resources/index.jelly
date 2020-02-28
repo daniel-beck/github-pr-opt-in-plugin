@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Only build pull requests that have a specific label set.
+</div>
